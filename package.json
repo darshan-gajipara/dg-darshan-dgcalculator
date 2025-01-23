@@ -1,0 +1,22 @@
+{
+  "name": "dg-darshan-dgcalculator",
+  "version": "1.0.0",
+  "description": "A npm package for basic calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshan-gajipara/dg-darshan-dgcalculator.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Darshan Gajipara",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/darshan-gajipara/dg-darshan-dgcalculator/issues"
+  },
+  "homepage": "https://github.com/darshan-gajipara/dg-darshan-dgcalculator#readme"
+}
